@@ -10,4 +10,4 @@ The project classifies fruit images like this:
 
 ## Installation
 Here are the steps to reproduce the project. 
-Make sure to install the requirements via: pip install -r requirements.txt
+Make sure to install the requirements via:  ```pip install -r requirements.txt``` 

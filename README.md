@@ -9,4 +9,5 @@ The project classifies fruit images like this:
 [apple-image](https://img.freepik.com/free-vector/apple-colorful-vector-design_341269-1123.jpg?semt=ais_hybrid&w=740&q=80)
 
 ## Installation
-Here are the steps to reproduce the project.
+Here are the steps to reproduce the project. 
+Make sure to install the requirements via: pip install -r requirements.txt
